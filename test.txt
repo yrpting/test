@@ -3,7 +3,7 @@ step04 rupeng.yan
 rupeng.yan modify
 step03 other modify
 
-step02
+step02 bug modify
 
 other modify 3
 
@@ -12,3 +12,4 @@ step rupeng.yan modify
 rupeng.yan modify 2
 
 rupeng.yan modify 3
+
