@@ -1,3 +1,4 @@
 demand1 start
-demand1 proceeding bug1 fix
+demand1 proceeding bug1 fix bug2 fix
+demand1 bug2 fix
 demand1 end
