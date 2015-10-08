@@ -2,4 +2,4 @@ demand1 start
 demand1 proceeding bug1 fix
 demand1 end
 demand2 start
-demand2 proceeding
+demand2 proceeding rupeng.yan 
