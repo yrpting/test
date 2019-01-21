@@ -18,3 +18,5 @@ test4 add
 test1 add
 
 test1 add
+
+osr commit 1
